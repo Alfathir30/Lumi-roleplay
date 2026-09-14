@@ -1,0 +1,64 @@
+generateText = {import:ai-text-plugin}
+generateImage = {import:text-to-image-plugin}
+kv = {import:kv-plugin}
+createServerSocket = {import:server-plugin}
+
+girlNames
+  Kylie
+  Lexie
+  Lexi
+  Miley
+  Kaylie
+  Kaylee
+  Kelsi
+  Kelsey
+  Shelby
+  Sienna
+  Sierra
+  Savannah
+  Bella
+  Lola
+  Roxy
+  Trixie
+  Nikki
+  Britney
+  Ashlynn
+  Madison
+  Rylee
+  Raelynn
+  Paisley
+  Kenzie
+  Kinsey
+  Kendra
+  Tessa
+  Brandi
+  Amber
+  Jade
+  Jasmine
+  Destiny
+  Tiffany
+  Megan
+  Cassie
+  Kiki
+  Mimi
+  Lulu
+  Scarlett
+  Ivy
+  Harley
+  Quinn
+  Zoey
+  Riley
+  Aubrey
+  Layla
+  Macy
+  Makenna
+  Blakely
+  Roxie
+
+$meta
+  title = your 3D AI companion
+  description = Name your own 3D anime companion and she'll remember you. She talks out loud, poses on command, takes selfies and videos, has moods and mini-games — and lives her own little life while you're away. Chat, gift, dress her up, or just watch her vibe.
+  image = https://user.uploads.dev/file/671707ac091194546ba4c1d4d519dfb1.gif
+  tags = 3d, vrm, ai, chat, companion, virtual girl, anime, tts, three.js, roleplay
+
+
